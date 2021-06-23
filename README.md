@@ -3,7 +3,7 @@
 # FIRST VERSION OF THE APP  
 
 As the name itself suggests that it's a # Meal-App. It's an appication where you've the options to see the Menu items by meals categories, see the meals and can mark it as 
-your favorite Meals, and last you can also filter the meal items as per your meal type from the given options to filter.
+your favorite Meals, and you can also filter the meal items as per your meal type from the given options to filter.
 
 
 
