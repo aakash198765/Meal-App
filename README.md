@@ -11,7 +11,7 @@ The App is designed in such a way that it provides you with Menu ( Drawers) with
 
 The App provides the Tab-bases navigation which helps you to either see the meals by categories or see you favorite meal items.
 
-Requirements - 
+Soft Skills required to build the App- 
 1. React-native Knowledge --> ReactNavigation, StackNavigator, Navigating between Screens, Passing the data between components as navigation params,
                               Navigation Methods (push, pop, replace), Grid Layout using FlatList, Configuring the Header of the navigation bar,
                               Setting Dynamic NavigationOptions--setOptions, Default Navigations, Navigation Params and Configuration, Aceesing Data
